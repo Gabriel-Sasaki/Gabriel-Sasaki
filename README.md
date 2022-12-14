@@ -1,0 +1,6 @@
+- 👋 Olá, Eu sou @Gabriel-Sasaki
+- 👀 Tenho interesse em ser um desenvolver full-stack
+- 🌱 Estou constantemente aprendendo coisas novas
+- 📔 Estudo Análise e Desenvolvimento de Sistemas na USCS como tecnólogo
+- 📚 Faço cursos online na Alura e na Udemy
+- 📫 Você pode entrar em contato comigo através do e-mail: gabriel.sasaki@yahoo.com

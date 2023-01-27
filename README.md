@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou @Gabriel-Sasaki
-- 👀 Tenho interesse em ser um desenvolver em T com especialização em back-end
+- 👀 Tenho interesse em ser um desenvolvedor back-end
 - 🌱 Estou constantemente aprendendo coisas novas
 - 📔 Estudo Análise e Desenvolvimento de Sistemas na USCS como tecnólogo
 - 📚 Faço cursos online na Alura e na Udemy

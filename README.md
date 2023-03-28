@@ -1,6 +1,7 @@
 - 👋 Olá, Eu sou @Gabriel-Sasaki
-- 👀 Tenho interesse em ser um desenvolvedor back-end
+- 👀 Tenho interesse em ser um desenvolvedor full-stack
 - 🌱 Estou constantemente aprendendo coisas novas
 - 📔 Estudo Análise e Desenvolvimento de Sistemas na USCS como tecnólogo
 - 📚 Faço cursos online na Alura e na Udemy
+- 📜 Sou aluno da EBAC no curso Full Stack Java e da Oracle Next Education na formação Back-End
 - 📫 Você pode entrar em contato comigo através do e-mail: gabriel.sasaki@yahoo.com

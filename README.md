@@ -11,12 +11,9 @@ Estudo Análise e Desenvolvimento de Sistemas na USCS. Além disso, faço/fiz cu
 ## Estatísticas
 <div>
   <a href="https://github.com/Gabriel-Sasaki">
-  <img height="180em" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=Gabriel-Sasaki&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://readme-stats.jonas-bernard.dev/api?username=Gabriel-Sasaki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-Sasaki&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-Sasaki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-## Commits
-![Snake animation](https://github.com/Gabriel-Sasaki/Gabriel-Sasaki/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos
 <div>

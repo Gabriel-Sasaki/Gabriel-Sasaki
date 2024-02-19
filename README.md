@@ -1,9 +1,11 @@
 ## Sobre mim
-Me chamo Gabriel Pinto Sasaki. Sou extremamente curioso, apaixonado por tecnologia e motivado por novos desafios. Me considero um entusiasta de tecnologia, programação, Linux e do mundo open-source.
+Me chamo Gabriel Pinto Sasaki. Sou extremamente curioso, apaixonado por tecnologia e motivado por novos desafios. Me considero um entusiasta de programação, inteligência artificial, dados e machine learning.
 
-No meu tempo livre gosto de ler, assistir séries, jogar video-game e, como hobbie, consumir conteúdos de tecnologia.
+No meu tempo livre gosto de ler, assistir séries, jogar video-game e, como hobbie, consumir conteúdos de tecnologia e astrofísica.
 
-Estudo Análise e Desenvolvimento de Sistemas na USCS. Além disso, faço/fiz cursos na Alura, Udemy e YouTube.
+Tenho conhecimentos teóricos e práticos em diversas ferramentas e linguagens de programação, sendo as principais: Python, LangChain, C# / .NET, SQL, Azure, AWS, Linux e Docker.
+
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na USCS. Complemento os conhecimentos através de cursos online na Alura, Udemy, EBAC, artigos e vídeo-aulas.
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40px width=40px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=40px width=40px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=40px width=40px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=40px width=40px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=40px width=40px />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40px width=40px />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=40px width=40px />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height=40px width=40px />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height=40px width=40px />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40px width=40px />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height=40px width=40px />

@@ -17,8 +17,9 @@ I continually enhance my skills through online courses on platforms like DataCam
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-Sasaki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Contacts
+## Contacts and Networks
 <div>
-<a href = "mailto:gabriel.sasaki@yahoo.com"><img src="https://img.shields.io/badge/Yahoo-5D04D9?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-pinto-sasaki" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:gabriel.sasaki@yahoo.com"><img src="https://img.shields.io/badge/Yahoo-5D04D9?style=for-the-badge" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-pinto-sasaki" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://www.datacamp.com/portfolio/gabrielpintosasaki"><img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" target="_blank"></a>
 </div>

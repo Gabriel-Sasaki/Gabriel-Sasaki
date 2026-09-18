@@ -20,7 +20,7 @@ I am a **Data Scientist II** at **Cogna Educação** specializing in **Generativ
 
 - 🔭 **Current Focus**: Architecting enterprise GenAI systems, agentic workflows, and semantic retrieval engines.
 - 💡 **Core Expertise**: Advanced Python, LLM orchestration (LangChain, CrewAI), Vector Databases, Prompt Engineering, and Cloud Native AI.
-- 📐 **Background**: Passionate about mathematics, astrophysics, and cognitive architectures. Former Brazilian Mathematical Olympiad (OBMEP) medalist.
+- 📐 **Interests**: Passionate about artificial intelligence, mathematics, astrophysics, and cognitive architectures.
 - 🚀 **Philosophy**: Rigorous engineering, deterministic testing, clean code, and zero shortcuts.
 
 ---
@@ -108,15 +108,6 @@ I am a **Data Scientist II** at **Cogna Educação** specializing in **Generativ
   <br><br>
 
   <img height="180em" src="https://streak-stats.demolab.com/?user=Gabriel-Sasaki&theme=dracula&border_color=bd93f9&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" alt="GitHub Streak" />
-
-  <br><br>
-
-  ### 🐍 Contribution Grid Activity
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Sasaki/Gabriel-Sasaki/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Sasaki/Gabriel-Sasaki/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Gabriel-Sasaki/Gabriel-Sasaki/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
 
 </div>
 
